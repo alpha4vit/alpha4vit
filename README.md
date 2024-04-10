@@ -1,7 +1,7 @@
 ### :man_technologist: Roman Gurinovich :man_technologist:
 
 I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Minks, Belarus.
-- :telescope: I’m working as a Software Engineer and have more than 1 year working experience of creating different API, web-applications and etc.
+- :telescope: I’m working as a Software Engineer and have more than 1.5 year working experience of creating different API, web-applications and etc.
 
 - :zap: I have experience of solving algorithm task from Leetcode and CodeWars.
 
